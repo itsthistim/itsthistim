@@ -30,6 +30,6 @@
 <br />
 
 <div align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsthistim&layout=compact&theme=catppuccin_mocha&hide_border=true"/>
-  <img height="200" src="https://streak-stats.demolab.com?user=itsthistim&mode=daily&theme=catppuccin_mocha&hide_border=true"  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsthistim&layout=compact&theme=catppuccin_mocha&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=itsthistim&mode=daily&theme=catppuccin_mocha&hide_border=true"  />
 </div>
