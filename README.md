@@ -8,41 +8,23 @@
 <br />
 
 <div align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img height="32" alt="javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  </a>
+  <img title="JavaScript" height="32" alt="javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img height="32" />
-  <a href="https://www.typescriptlang.org/">
-    <img height="32" alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  </a>
+  <img title="TypeScript" height="32" alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="32" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img height="32" alt="html5 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  </a>
+  <img title="HTML5" height="32" alt="html5 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="32" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img height="32" alt="css3 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  </a>
+  <img title="CSS3" height="32" alt="css3 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="32" />
-  <a href="https://dotnet.microsoft.com/languages/csharp">
-    <img height="32" alt="csharp logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  </a>
+  <img title="C#" height="32" alt="csharp logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="32" />
-  <a href="https://www.php.net/">
-    <img height="32" alt="php logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  </a>
+  <img title="PHP" height="32" alt="php logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img height="32" />
-  <a href="https://astro.build/">
-    <img height="32" alt="astro logo" src="https://astro.build/favicon.svg" />
-  </a>
+  <img title="Astro" height="32" alt="astro logo" src="https://astro.build/favicon.svg" />
   <img height="32" />
-  <a href="https://react.dev/">
-    <img height="32" alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
+  <img title="React" height="32" alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="32" />
-  <a href="https://git-scm.com/">
-    <img height="32" alt="git logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </a>
+  <img title="Git" height="32" alt="git logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 <br />
