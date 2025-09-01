@@ -1,4 +1,4 @@
-1## Hi, I'm Tim
+## Hi, I'm Tim
 
 ### About me
 -   🎓 Studying Software Engineering
