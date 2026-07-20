@@ -3,7 +3,6 @@
 ### About me
 -   🎓 Studying Software Engineering
 -   🪐 I love trying out new technologies and building cool stuff in my free time.
--   🔗 Learn more about me over at <https://thistim.me/>!
 
 <br />
 
